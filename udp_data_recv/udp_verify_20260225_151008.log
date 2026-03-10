@@ -1,0 +1,44 @@
+2026-02-25 15:10:08,324 [INFO] ============================================================
+2026-02-25 15:10:08,324 [INFO] UDP数据接收验证程序启动
+2026-02-25 15:10:08,324 [INFO] ============================================================
+2026-02-25 15:10:08,325 [INFO] UDP Port: 32896
+2026-02-25 15:10:08,325 [INFO] Image: 640x480
+2026-02-25 15:10:08,325 [INFO] Image Packets: 640
+2026-02-25 15:10:08,336 [INFO] ------------------------------------------------------------
+2026-02-25 15:10:08,336 [INFO] UDP接收器已启动 (端口 32896)
+2026-02-25 15:10:08,336 [INFO] 等待FPGA数据...
+2026-02-25 15:10:08,337 [INFO] ------------------------------------------------------------
+2026-02-25 15:10:17,181 [INFO] [保存] Frame#0 -> frames/frame_000000.png, frames/frame_000000_radar.json
+2026-02-25 15:10:18,114 [INFO] [保存] Frame#1 -> frames/frame_000001.png, frames/frame_000001_radar.json
+2026-02-25 15:10:19,076 [INFO] [保存] Frame#2 -> frames/frame_000002.png, frames/frame_000002_radar.json
+2026-02-25 15:10:20,014 [INFO] [保存] Frame#3 -> frames/frame_000003.png, frames/frame_000003_radar.json
+2026-02-25 15:10:20,988 [INFO] [保存] Frame#4 -> frames/frame_000004.png, frames/frame_000004_radar.json
+2026-02-25 15:10:21,960 [INFO] [保存] Frame#5 -> frames/frame_000005.png, frames/frame_000005_radar.json
+2026-02-25 15:10:22,926 [INFO] [保存] Frame#6 -> frames/frame_000006.png, frames/frame_000006_radar.json
+2026-02-25 15:10:23,928 [INFO] [保存] Frame#7 -> frames/frame_000007.png, frames/frame_000007_radar.json
+2026-02-25 15:10:24,871 [INFO] [保存] Frame#8 -> frames/frame_000008.png, frames/frame_000008_radar.json
+2026-02-25 15:10:25,847 [INFO] [保存] Frame#9 -> frames/frame_000009.png, frames/frame_000009_radar.json
+2026-02-25 15:10:26,820 [INFO] [保存] Frame#10 -> frames/frame_000010.png, frames/frame_000010_radar.json
+2026-02-25 15:10:27,770 [INFO] [保存] Frame#11 -> frames/frame_000011.png, frames/frame_000011_radar.json
+2026-02-25 15:10:28,736 [INFO] [保存] Frame#12 -> frames/frame_000012.png, frames/frame_000012_radar.json
+2026-02-25 15:10:29,747 [INFO] [保存] Frame#13 -> frames/frame_000013.png, frames/frame_000013_radar.json
+2026-02-25 15:10:30,715 [INFO] [保存] Frame#14 -> frames/frame_000014.png, frames/frame_000014_radar.json
+2026-02-25 15:10:31,677 [INFO] [保存] Frame#15 -> frames/frame_000015.png, frames/frame_000015_radar.json
+2026-02-25 15:10:32,628 [INFO] [保存] Frame#16 -> frames/frame_000016.png, frames/frame_000016_radar.json
+2026-02-25 15:10:33,633 [INFO] [保存] Frame#17 -> frames/frame_000017.png, frames/frame_000017_radar.json
+2026-02-25 15:10:34,574 [INFO] [保存] Frame#18 -> frames/frame_000018.png, frames/frame_000018_radar.json
+2026-02-25 15:10:39,440 [INFO] 
+============================================================
+2026-02-25 15:10:39,441 [INFO] 接收器已停止 (用户中断)
+2026-02-25 15:10:39,472 [INFO] ============================================================
+2026-02-25 15:10:39,472 [INFO] [最终统计]
+2026-02-25 15:10:39,473 [INFO]   总帧数: 19
+2026-02-25 15:10:39,473 [INFO]   总包数: 12662
+2026-02-25 15:10:39,473 [INFO]   总字节数: 17.55 MB
+2026-02-25 15:10:39,473 [INFO]   运行时长: 31.1 秒
+2026-02-25 15:10:39,474 [INFO]   平均吞吐量: 4.73 Mbps
+2026-02-25 15:10:39,474 [INFO]   平均包率: 406.5 pps
+2026-02-25 15:10:39,474 [INFO]   总丢包数: 19
+2026-02-25 15:10:39,475 [INFO]   丢包率: 0.15%
+2026-02-25 15:10:39,475 [INFO]   日志文件: udp_verify_20260225_151008.log
+2026-02-25 15:10:39,475 [INFO] ============================================================

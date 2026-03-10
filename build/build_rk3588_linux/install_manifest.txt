@@ -1,0 +1,4 @@
+/home/cat/AI/fusion_proj/install/rk3588_linux/model/classes_9_labels_list.txt
+/home/cat/AI/fusion_proj/install/rk3588_linux/model/best.rknn
+/home/cat/AI/fusion_proj/install/rk3588_linux/lib/librknnrt.so
+/home/cat/AI/fusion_proj/install/rk3588_linux/lib/librga.so

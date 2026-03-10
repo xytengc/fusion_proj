@@ -1,0 +1,6 @@
+[RecordInfo]
+Name=Randar Data Output
+Frame=600
+CfgCount=1
+Camera=1
+MaxFrameSet=10000

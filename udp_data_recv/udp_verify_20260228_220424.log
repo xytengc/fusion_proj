@@ -1,0 +1,123 @@
+2026-02-28 22:04:24,781 [INFO] ============================================================
+2026-02-28 22:04:24,781 [INFO] UDP数据接收验证程序启动
+2026-02-28 22:04:24,781 [INFO] ============================================================
+2026-02-28 22:04:24,782 [INFO] UDP Port: 32896
+2026-02-28 22:04:24,782 [INFO] Image: 640x480
+2026-02-28 22:04:24,782 [INFO] Image Packets: 640
+2026-02-28 22:04:24,796 [INFO] ------------------------------------------------------------
+2026-02-28 22:04:24,797 [INFO] UDP接收器已启动 (端口 32896)
+2026-02-28 22:04:24,797 [INFO] 等待FPGA数据...
+2026-02-28 22:04:24,797 [INFO] ------------------------------------------------------------
+2026-02-28 22:04:29,336 [INFO] [保存] Frame#0 -> frames/frame_000000.png, frames/frame_000000_radar.json
+2026-02-28 22:04:30,303 [INFO] [保存] Frame#1 -> frames/frame_000001.png, frames/frame_000001_radar.json
+2026-02-28 22:04:31,274 [INFO] [保存] Frame#2 -> frames/frame_000002.png, frames/frame_000002_radar.json
+2026-02-28 22:04:32,249 [INFO] [保存] Frame#3 -> frames/frame_000003.png, frames/frame_000003_radar.json
+2026-02-28 22:04:33,212 [INFO] [保存] Frame#4 -> frames/frame_000004.png, frames/frame_000004_radar.json
+2026-02-28 22:04:34,153 [INFO] [保存] Frame#5 -> frames/frame_000005.png, frames/frame_000005_radar.json
+2026-02-28 22:04:35,129 [INFO] [保存] Frame#6 -> frames/frame_000006.png, frames/frame_000006_radar.json
+2026-02-28 22:04:36,092 [INFO] [保存] Frame#7 -> frames/frame_000007.png, frames/frame_000007_radar.json
+2026-02-28 22:04:37,094 [INFO] [保存] Frame#8 -> frames/frame_000008.png, frames/frame_000008_radar.json
+2026-02-28 22:04:38,084 [INFO] [保存] Frame#9 -> frames/frame_000009.png, frames/frame_000009_radar.json
+2026-02-28 22:04:39,057 [INFO] [保存] Frame#10 -> frames/frame_000010.png, frames/frame_000010_radar.json
+2026-02-28 22:04:40,022 [INFO] [保存] Frame#11 -> frames/frame_000011.png, frames/frame_000011_radar.json
+2026-02-28 22:04:40,977 [INFO] [保存] Frame#12 -> frames/frame_000012.png, frames/frame_000012_radar.json
+2026-02-28 22:04:41,949 [INFO] [保存] Frame#13 -> frames/frame_000013.png, frames/frame_000013_radar.json
+2026-02-28 22:04:42,911 [INFO] [保存] Frame#14 -> frames/frame_000014.png, frames/frame_000014_radar.json
+2026-02-28 22:04:43,887 [INFO] [保存] Frame#15 -> frames/frame_000015.png, frames/frame_000015_radar.json
+2026-02-28 22:04:44,858 [INFO] [保存] Frame#16 -> frames/frame_000016.png, frames/frame_000016_radar.json
+2026-02-28 22:04:45,799 [INFO] [保存] Frame#17 -> frames/frame_000017.png, frames/frame_000017_radar.json
+2026-02-28 22:04:46,809 [INFO] [保存] Frame#18 -> frames/frame_000018.png, frames/frame_000018_radar.json
+2026-02-28 22:04:47,783 [INFO] [保存] Frame#19 -> frames/frame_000019.png, frames/frame_000019_radar.json
+2026-02-28 22:04:48,748 [INFO] [保存] Frame#20 -> frames/frame_000020.png, frames/frame_000020_radar.json
+2026-02-28 22:04:49,700 [INFO] [保存] Frame#21 -> frames/frame_000021.png, frames/frame_000021_radar.json
+2026-02-28 22:04:50,680 [INFO] [保存] Frame#22 -> frames/frame_000022.png, frames/frame_000022_radar.json
+2026-02-28 22:04:51,655 [INFO] [保存] Frame#23 -> frames/frame_000023.png, frames/frame_000023_radar.json
+2026-02-28 22:04:52,647 [INFO] [保存] Frame#24 -> frames/frame_000024.png, frames/frame_000024_radar.json
+2026-02-28 22:04:53,592 [INFO] [保存] Frame#25 -> frames/frame_000025.png, frames/frame_000025_radar.json
+2026-02-28 22:04:54,565 [INFO] [保存] Frame#26 -> frames/frame_000026.png, frames/frame_000026_radar.json
+2026-02-28 22:04:55,531 [INFO] [保存] Frame#27 -> frames/frame_000027.png, frames/frame_000027_radar.json
+2026-02-28 22:04:56,502 [INFO] [保存] Frame#28 -> frames/frame_000028.png, frames/frame_000028_radar.json
+2026-02-28 22:04:57,485 [INFO] [保存] Frame#29 -> frames/frame_000029.png, frames/frame_000029_radar.json
+2026-02-28 22:04:58,441 [INFO] [保存] Frame#30 -> frames/frame_000030.png, frames/frame_000030_radar.json
+2026-02-28 22:04:59,420 [INFO] [保存] Frame#31 -> frames/frame_000031.png, frames/frame_000031_radar.json
+2026-02-28 22:05:00,386 [INFO] [保存] Frame#32 -> frames/frame_000032.png, frames/frame_000032_radar.json
+2026-02-28 22:05:01,347 [INFO] [保存] Frame#33 -> frames/frame_000033.png, frames/frame_000033_radar.json
+2026-02-28 22:05:02,337 [INFO] [保存] Frame#34 -> frames/frame_000034.png, frames/frame_000034_radar.json
+2026-02-28 22:05:03,308 [INFO] [保存] Frame#35 -> frames/frame_000035.png, frames/frame_000035_radar.json
+2026-02-28 22:05:04,288 [INFO] [保存] Frame#36 -> frames/frame_000036.png, frames/frame_000036_radar.json
+2026-02-28 22:05:05,253 [INFO] [保存] Frame#37 -> frames/frame_000037.png, frames/frame_000037_radar.json
+2026-02-28 22:05:06,231 [INFO] [保存] Frame#38 -> frames/frame_000038.png, frames/frame_000038_radar.json
+2026-02-28 22:05:07,198 [INFO] [保存] Frame#39 -> frames/frame_000039.png, frames/frame_000039_radar.json
+2026-02-28 22:05:08,169 [INFO] [保存] Frame#40 -> frames/frame_000040.png, frames/frame_000040_radar.json
+2026-02-28 22:05:09,091 [INFO] [保存] Frame#41 -> frames/frame_000041.png, frames/frame_000041_radar.json
+2026-02-28 22:05:10,096 [INFO] [保存] Frame#42 -> frames/frame_000042.png, frames/frame_000042_radar.json
+2026-02-28 22:05:11,066 [INFO] [保存] Frame#43 -> frames/frame_000043.png, frames/frame_000043_radar.json
+2026-02-28 22:05:12,037 [INFO] [保存] Frame#44 -> frames/frame_000044.png, frames/frame_000044_radar.json
+2026-02-28 22:05:13,009 [INFO] [保存] Frame#45 -> frames/frame_000045.png, frames/frame_000045_radar.json
+2026-02-28 22:05:13,971 [INFO] [保存] Frame#46 -> frames/frame_000046.png, frames/frame_000046_radar.json
+2026-02-28 22:05:14,961 [INFO] [保存] Frame#47 -> frames/frame_000047.png, frames/frame_000047_radar.json
+2026-02-28 22:05:15,918 [INFO] [保存] Frame#48 -> frames/frame_000048.png, frames/frame_000048_radar.json
+2026-02-28 22:05:16,898 [INFO] [保存] Frame#49 -> frames/frame_000049.png, frames/frame_000049_radar.json
+2026-02-28 22:05:17,871 [INFO] [保存] Frame#50 -> frames/frame_000050.png, frames/frame_000050_radar.json
+2026-02-28 22:05:18,842 [INFO] [保存] Frame#51 -> frames/frame_000051.png, frames/frame_000051_radar.json
+2026-02-28 22:05:19,818 [INFO] [保存] Frame#52 -> frames/frame_000052.png, frames/frame_000052_radar.json
+2026-02-28 22:05:20,791 [INFO] [保存] Frame#53 -> frames/frame_000053.png, frames/frame_000053_radar.json
+2026-02-28 22:05:21,744 [INFO] [保存] Frame#54 -> frames/frame_000054.png, frames/frame_000054_radar.json
+2026-02-28 22:05:22,721 [INFO] [保存] Frame#55 -> frames/frame_000055.png, frames/frame_000055_radar.json
+2026-02-28 22:05:23,705 [INFO] [保存] Frame#56 -> frames/frame_000056.png, frames/frame_000056_radar.json
+2026-02-28 22:05:24,674 [INFO] [保存] Frame#57 -> frames/frame_000057.png, frames/frame_000057_radar.json
+2026-02-28 22:05:25,631 [INFO] [保存] Frame#58 -> frames/frame_000058.png, frames/frame_000058_radar.json
+2026-02-28 22:05:26,620 [INFO] [保存] Frame#59 -> frames/frame_000059.png, frames/frame_000059_radar.json
+2026-02-28 22:05:27,574 [INFO] [保存] Frame#60 -> frames/frame_000060.png, frames/frame_000060_radar.json
+2026-02-28 22:05:28,557 [INFO] [保存] Frame#61 -> frames/frame_000061.png, frames/frame_000061_radar.json
+2026-02-28 22:05:29,490 [INFO] [保存] Frame#62 -> frames/frame_000062.png, frames/frame_000062_radar.json
+2026-02-28 22:05:30,491 [INFO] [保存] Frame#63 -> frames/frame_000063.png, frames/frame_000063_radar.json
+2026-02-28 22:05:31,461 [INFO] [保存] Frame#64 -> frames/frame_000064.png, frames/frame_000064_radar.json
+2026-02-28 22:05:32,407 [INFO] [保存] Frame#65 -> frames/frame_000065.png, frames/frame_000065_radar.json
+2026-02-28 22:05:33,393 [INFO] [保存] Frame#66 -> frames/frame_000066.png, frames/frame_000066_radar.json
+2026-02-28 22:05:34,391 [INFO] [保存] Frame#67 -> frames/frame_000067.png, frames/frame_000067_radar.json
+2026-02-28 22:05:35,304 [INFO] [保存] Frame#68 -> frames/frame_000068.png, frames/frame_000068_radar.json
+2026-02-28 22:05:36,277 [INFO] [保存] Frame#69 -> frames/frame_000069.png, frames/frame_000069_radar.json
+2026-02-28 22:05:37,247 [INFO] [保存] Frame#70 -> frames/frame_000070.png, frames/frame_000070_radar.json
+2026-02-28 22:05:39,192 [INFO] [保存] Frame#72 -> frames/frame_000072.png, frames/frame_000072_radar.json
+2026-02-28 22:05:40,167 [INFO] [保存] Frame#73 -> frames/frame_000073.png, frames/frame_000073_radar.json
+2026-02-28 22:05:41,166 [INFO] [保存] Frame#74 -> frames/frame_000074.png, frames/frame_000074_radar.json
+2026-02-28 22:05:42,144 [INFO] [保存] Frame#75 -> frames/frame_000075.png, frames/frame_000075_radar.json
+2026-02-28 22:05:43,096 [INFO] [保存] Frame#76 -> frames/frame_000076.png, frames/frame_000076_radar.json
+2026-02-28 22:05:44,046 [INFO] [保存] Frame#77 -> frames/frame_000077.png, frames/frame_000077_radar.json
+2026-02-28 22:05:45,016 [INFO] [保存] Frame#78 -> frames/frame_000078.png, frames/frame_000078_radar.json
+2026-02-28 22:05:45,984 [INFO] [保存] Frame#79 -> frames/frame_000079.png, frames/frame_000079_radar.json
+2026-02-28 22:05:46,985 [INFO] [保存] Frame#80 -> frames/frame_000080.png, frames/frame_000080_radar.json
+2026-02-28 22:05:47,912 [INFO] [保存] Frame#81 -> frames/frame_000081.png, frames/frame_000081_radar.json
+2026-02-28 22:05:48,925 [INFO] [保存] Frame#82 -> frames/frame_000082.png, frames/frame_000082_radar.json
+2026-02-28 22:05:49,848 [INFO] [保存] Frame#83 -> frames/frame_000083.png, frames/frame_000083_radar.json
+2026-02-28 22:05:50,838 [INFO] [保存] Frame#84 -> frames/frame_000084.png, frames/frame_000084_radar.json
+2026-02-28 22:05:51,808 [INFO] [保存] Frame#85 -> frames/frame_000085.png, frames/frame_000085_radar.json
+2026-02-28 22:05:52,762 [INFO] [保存] Frame#86 -> frames/frame_000086.png, frames/frame_000086_radar.json
+2026-02-28 22:05:53,733 [INFO] [保存] Frame#87 -> frames/frame_000087.png, frames/frame_000087_radar.json
+2026-02-28 22:05:54,716 [INFO] [保存] Frame#88 -> frames/frame_000088.png, frames/frame_000088_radar.json
+2026-02-28 22:05:55,690 [INFO] [保存] Frame#89 -> frames/frame_000089.png, frames/frame_000089_radar.json
+2026-02-28 22:05:56,657 [INFO] [保存] Frame#90 -> frames/frame_000090.png, frames/frame_000090_radar.json
+2026-02-28 22:05:57,653 [INFO] [保存] Frame#91 -> frames/frame_000091.png, frames/frame_000091_radar.json
+2026-02-28 22:05:58,602 [INFO] [保存] Frame#92 -> frames/frame_000092.png, frames/frame_000092_radar.json
+2026-02-28 22:05:59,584 [INFO] [保存] Frame#93 -> frames/frame_000093.png, frames/frame_000093_radar.json
+2026-02-28 22:06:00,542 [INFO] [保存] Frame#94 -> frames/frame_000094.png, frames/frame_000094_radar.json
+2026-02-28 22:06:01,534 [INFO] [保存] Frame#95 -> frames/frame_000095.png, frames/frame_000095_radar.json
+2026-02-28 22:06:02,481 [INFO] [保存] Frame#96 -> frames/frame_000096.png, frames/frame_000096_radar.json
+2026-02-28 22:06:03,454 [INFO] [保存] Frame#97 -> frames/frame_000097.png, frames/frame_000097_radar.json
+2026-02-28 22:06:04,426 [INFO] [保存] Frame#98 -> frames/frame_000098.png, frames/frame_000098_radar.json
+2026-02-28 22:06:08,622 [INFO] 
+============================================================
+2026-02-28 22:06:08,622 [INFO] 接收器已停止 (用户中断)
+2026-02-28 22:06:08,622 [INFO] ============================================================
+2026-02-28 22:06:08,623 [INFO] [最终统计]
+2026-02-28 22:06:08,623 [INFO]   总帧数: 98
+2026-02-28 22:06:08,624 [INFO]   总包数: 63700
+2026-02-28 22:06:08,624 [INFO]   总字节数: 88.27 MB
+2026-02-28 22:06:08,624 [INFO]   运行时长: 103.8 秒
+2026-02-28 22:06:08,625 [INFO]   平均吞吐量: 7.13 Mbps
+2026-02-28 22:06:08,625 [INFO]   平均包率: 613.4 pps
+2026-02-28 22:06:08,625 [INFO]   总丢包数: 99
+2026-02-28 22:06:08,625 [INFO]   丢包率: 0.16%
+2026-02-28 22:06:08,626 [INFO]   日志文件: udp_verify_20260228_220424.log
+2026-02-28 22:06:08,626 [INFO] ============================================================
